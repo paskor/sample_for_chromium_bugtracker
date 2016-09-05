@@ -1,4 +1,4 @@
-# Sample project to reproduce a bug(?) in Chrome/ChromDriver
+# Sample project to reproduce a bug(?) in Chrome/ChromeDriver
 
 Changes required:
 
